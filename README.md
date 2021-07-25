@@ -1,0 +1,2 @@
+# FIRE-RESCUE-ROBOT
+This advanced fire rescue robotic system independently detects and extinguishes fire. In the age of technology, the world is slowly turning towards automated systems and self- traveling vehicles, firefighters are constantly at risk of losing their lives. Fire spreads rapidly if it is not controlled. In case of a gas leakage there even maybe an explosion. So, to overcome this issue and safeguard our hero's life, our system comes to the rescue.
